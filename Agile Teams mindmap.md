@@ -1,0 +1,30 @@
+```mermaid
+mindmap
+ root )Hvad er<br/>Agile teams(
+   definition {{Agil er en letvægts-tilgang til teamarbejde. Udspringer af det Agile Mainfest- 2001 - som er et opgør med vandfaldsprojekter. Det har udviklet sig i mange retninger/religioner siden}}
+   EX (Extreme programming)
+     practises (practises)
+       par (Pair programmering)
+       refactor (refactoring)
+       tdd (Test driven development)
+       ci (Continuous integration)
+       code (Coding standard)
+       colleective (Collective code ownership)
+   leans (Lean Software Development)
+     valusestream (Value stream)
+       cd (Continuous Delivery)
+     automation (Automation)
+       ci (Continuous Integration)
+     kanban (Kanban)
+       scrum (Scrum Boards)
+   scrum(Scrum)
+     backlog (Backlog)
+       grooming (Backlog grooming)
+       sprint (Sprint)
+         planning (Sprint planning)
+         retrospective (Retrospective)
+     roles ((Roles))          
+       po (Product Owner)
+       team (Team)
+       master (Scrum master)
+  ```   
